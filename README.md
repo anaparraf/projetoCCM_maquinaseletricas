@@ -1,1 +1,1 @@
-# projetoCCM_maquinaseletricas
+# Centro de Controle de Motores - Máquinas Elétricas e Acionamentos
